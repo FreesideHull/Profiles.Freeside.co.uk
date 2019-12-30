@@ -3,7 +3,7 @@ flask_sqlalchemy
 flask_mail
 Flask-Migrate
 flask-login
-https://github.com/FreesideHull/python-freeipa/archive/develop.zip
+python-freeipa==0.2.5
 wtforms
 paramiko
 requests_oauthlib
